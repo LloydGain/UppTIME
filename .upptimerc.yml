@@ -13,6 +13,8 @@ sites:
     url: https://rich01.com/blog-pos-17/
   - name: toby
     url: https://www.hellotoby.com/zh-tw?isMobile=true
+  - name: invest
+    url: https://blog-pos-17/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
