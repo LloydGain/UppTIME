@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "66.06%",
-    "uptimeDay": "39.73%",
-    "uptimeWeek": "66.06%",
-    "uptimeMonth": "66.06%",
-    "uptimeYear": "66.06%",
+    "uptime": "66.22%",
+    "uptimeDay": "39.08%",
+    "uptimeWeek": "66.22%",
+    "uptimeMonth": "66.22%",
+    "uptimeYear": "66.22%",
     "time": 1234,
-    "timeDay": 1204,
+    "timeDay": 1205,
     "timeWeek": 1234,
     "timeMonth": 1234,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2022-06-12": 773,
+      "2022-06-12": 782,
       "2022-06-11": 836,
       "2022-06-10": 951,
-      "2022-06-09": 127
+      "2022-06-09": 108
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "66.06%",
-    "uptimeDay": "39.72%",
-    "uptimeWeek": "66.06%",
-    "uptimeMonth": "66.06%",
-    "uptimeYear": "66.06%",
+    "uptime": "66.22%",
+    "uptimeDay": "39.08%",
+    "uptimeWeek": "66.22%",
+    "uptimeMonth": "66.22%",
+    "uptimeYear": "66.22%",
     "time": 1234,
-    "timeDay": 1204,
+    "timeDay": 1205,
     "timeWeek": 1234,
     "timeMonth": 1234,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2022-06-12": 773,
+      "2022-06-12": 782,
       "2022-06-11": 836,
       "2022-06-10": 951,
-      "2022-06-09": 127
+      "2022-06-09": 108
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "66.06%",
-    "uptimeDay": "39.71%",
-    "uptimeWeek": "66.06%",
-    "uptimeMonth": "66.06%",
-    "uptimeYear": "66.06%",
+    "uptime": "66.22%",
+    "uptimeDay": "39.08%",
+    "uptimeWeek": "66.22%",
+    "uptimeMonth": "66.22%",
+    "uptimeYear": "66.22%",
     "time": 1234,
-    "timeDay": 1204,
+    "timeDay": 1205,
     "timeWeek": 1234,
     "timeMonth": 1234,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2022-06-12": 773,
+      "2022-06-12": 782,
       "2022-06-11": 836,
       "2022-06-10": 951,
-      "2022-06-09": 127
+      "2022-06-09": 108
     }
   }
 ]
