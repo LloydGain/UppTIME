@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2155,
     "timeDay": 2233,
-    "timeWeek": 2155,
+    "timeWeek": 2240,
     "timeMonth": 2155,
     "timeYear": 2155,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2256,
     "timeDay": 1737,
-    "timeWeek": 2256,
+    "timeWeek": 2273,
     "timeMonth": 2256,
     "timeYear": 2256,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 194,
-    "timeWeek": 316,
+    "timeWeek": 317,
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {}
@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "72.15%",
-    "uptimeDay": "24.88%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "72.15%",
-    "uptimeYear": "72.15%",
+    "uptime": "72.27%",
+    "uptimeDay": "24.06%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "72.27%",
+    "uptimeYear": "72.27%",
     "time": 1230,
-    "timeDay": 1221,
-    "timeWeek": 1230,
+    "timeDay": 1227,
+    "timeWeek": 1232,
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2022-06-14": 423,
+      "2022-06-14": 435,
       "2022-06-13": 1069,
       "2022-06-12": 867,
-      "2022-06-11": 450
+      "2022-06-11": 429
     }
   },
   {
@@ -89,7 +89,7 @@
     "uptimeYear": "100.00%",
     "time": 1688,
     "timeDay": 1825,
-    "timeWeek": 1688,
+    "timeWeek": 1737,
     "timeMonth": 1688,
     "timeYear": 1688,
     "dailyMinutesDown": {}
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "72.15%",
-    "uptimeDay": "24.88%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "72.15%",
-    "uptimeYear": "72.15%",
+    "uptime": "72.27%",
+    "uptimeDay": "24.06%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "72.27%",
+    "uptimeYear": "72.27%",
     "time": 1230,
-    "timeDay": 1221,
-    "timeWeek": 1230,
+    "timeDay": 1227,
+    "timeWeek": 1232,
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2022-06-14": 423,
+      "2022-06-14": 435,
       "2022-06-13": 1069,
       "2022-06-12": 867,
-      "2022-06-11": 450
+      "2022-06-11": 429
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "72.15%",
-    "uptimeDay": "24.87%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "72.15%",
-    "uptimeYear": "72.15%",
+    "uptime": "72.27%",
+    "uptimeDay": "24.05%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "72.27%",
+    "uptimeYear": "72.27%",
     "time": 1230,
-    "timeDay": 1221,
-    "timeWeek": 1230,
+    "timeDay": 1227,
+    "timeWeek": 1232,
     "timeMonth": 1230,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2022-06-14": 423,
+      "2022-06-14": 435,
       "2022-06-13": 1069,
       "2022-06-12": 867,
-      "2022-06-11": 450
+      "2022-06-11": 429
     }
   }
 ]
