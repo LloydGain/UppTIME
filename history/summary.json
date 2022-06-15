@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.51%",
-    "uptimeDay": "29.51%",
-    "uptimeWeek": "71.58%",
-    "uptimeMonth": "75.51%",
-    "uptimeYear": "75.51%",
-    "time": 1233,
+    "uptime": "75.57%",
+    "uptimeDay": "29.42%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "75.57%",
+    "uptimeYear": "75.57%",
+    "time": 1232,
     "timeDay": 1261,
-    "timeWeek": 1255,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "timeWeek": 1254,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-06-15": 525,
+      "2022-06-15": 543,
       "2022-06-14": 1007,
       "2022-06-13": 1069,
-      "2022-06-12": 264
+      "2022-06-12": 242
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.51%",
-    "uptimeDay": "29.51%",
-    "uptimeWeek": "71.58%",
-    "uptimeMonth": "75.51%",
-    "uptimeYear": "75.51%",
-    "time": 1233,
+    "uptime": "75.57%",
+    "uptimeDay": "29.40%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "75.57%",
+    "uptimeYear": "75.57%",
+    "time": 1232,
     "timeDay": 1261,
-    "timeWeek": 1255,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "timeWeek": 1254,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-06-15": 525,
+      "2022-06-15": 543,
       "2022-06-14": 1007,
       "2022-06-13": 1069,
-      "2022-06-12": 264
+      "2022-06-12": 242
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.51%",
-    "uptimeDay": "29.51%",
-    "uptimeWeek": "71.58%",
-    "uptimeMonth": "75.51%",
-    "uptimeYear": "75.51%",
-    "time": 1233,
+    "uptime": "75.57%",
+    "uptimeDay": "29.39%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "75.57%",
+    "uptimeYear": "75.57%",
+    "time": 1232,
     "timeDay": 1261,
-    "timeWeek": 1255,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "timeWeek": 1254,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-06-15": 525,
+      "2022-06-15": 543,
       "2022-06-14": 1007,
       "2022-06-13": 1069,
-      "2022-06-12": 264
+      "2022-06-12": 242
     }
   }
 ]
