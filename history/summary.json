@@ -59,21 +59,20 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.82%",
+    "uptime": "76.63%",
     "uptimeDay": "29.74%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "75.82%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "76.63%",
+    "uptimeYear": "76.63%",
     "time": 1235,
-    "timeDay": 1270,
-    "timeWeek": 1259,
+    "timeDay": 1268,
+    "timeWeek": 1260,
     "timeMonth": 1235,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-06-15": 863,
+      "2022-06-15": 887,
       "2022-06-14": 1007,
-      "2022-06-13": 1069,
-      "2022-06-12": 3
+      "2022-06-13": 956
     }
   },
   {
@@ -100,21 +99,20 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.82%",
+    "uptime": "76.63%",
     "uptimeDay": "29.74%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "75.82%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "76.63%",
+    "uptimeYear": "76.63%",
     "time": 1235,
-    "timeDay": 1270,
-    "timeWeek": 1259,
+    "timeDay": 1268,
+    "timeWeek": 1260,
     "timeMonth": 1235,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-06-15": 863,
+      "2022-06-15": 887,
       "2022-06-14": 1007,
-      "2022-06-13": 1069,
-      "2022-06-12": 3
+      "2022-06-13": 956
     }
   },
   {
@@ -123,21 +121,20 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "75.82%",
+    "uptime": "76.63%",
     "uptimeDay": "29.74%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "75.82%",
+    "uptimeWeek": "71.73%",
+    "uptimeMonth": "76.63%",
+    "uptimeYear": "76.63%",
     "time": 1235,
-    "timeDay": 1270,
-    "timeWeek": 1259,
+    "timeDay": 1268,
+    "timeWeek": 1260,
     "timeMonth": 1235,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2022-06-15": 863,
+      "2022-06-15": 887,
       "2022-06-14": 1007,
-      "2022-06-13": 1069,
-      "2022-06-12": 3
+      "2022-06-13": 956
     }
   }
 ]
