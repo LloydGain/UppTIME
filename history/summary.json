@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "77.83%",
+    "uptime": "77.94%",
     "uptimeDay": "31.64%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "77.83%",
-    "uptimeYear": "77.83%",
+    "uptimeWeek": "71.49%",
+    "uptimeMonth": "77.94%",
+    "uptimeYear": "77.94%",
     "time": 1237,
-    "timeDay": 1279,
-    "timeWeek": 1252,
+    "timeDay": 1282,
+    "timeWeek": 1253,
     "timeMonth": 1237,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-06-16": 412,
+      "2022-06-16": 444,
       "2022-06-15": 1006,
       "2022-06-14": 1007,
-      "2022-06-13": 458
+      "2022-06-13": 418
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "77.83%",
+    "uptime": "77.94%",
     "uptimeDay": "31.64%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "77.83%",
-    "uptimeYear": "77.83%",
+    "uptimeWeek": "71.49%",
+    "uptimeMonth": "77.94%",
+    "uptimeYear": "77.94%",
     "time": 1237,
-    "timeDay": 1279,
-    "timeWeek": 1252,
+    "timeDay": 1282,
+    "timeWeek": 1253,
     "timeMonth": 1237,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-06-16": 412,
+      "2022-06-16": 444,
       "2022-06-15": 1006,
       "2022-06-14": 1007,
-      "2022-06-13": 458
+      "2022-06-13": 418
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "77.83%",
+    "uptime": "77.94%",
     "uptimeDay": "31.64%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "77.83%",
-    "uptimeYear": "77.83%",
+    "uptimeWeek": "71.48%",
+    "uptimeMonth": "77.94%",
+    "uptimeYear": "77.94%",
     "time": 1237,
-    "timeDay": 1279,
-    "timeWeek": 1252,
+    "timeDay": 1282,
+    "timeWeek": 1253,
     "timeMonth": 1237,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-06-16": 412,
+      "2022-06-16": 444,
       "2022-06-15": 1006,
       "2022-06-14": 1007,
-      "2022-06-13": 458
+      "2022-06-13": 418
     }
   }
 ]
