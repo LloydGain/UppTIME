@@ -59,20 +59,20 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.58%",
+    "uptime": "84.67%",
     "uptimeDay": "35.80%",
-    "uptimeWeek": "74.74%",
-    "uptimeMonth": "84.58%",
-    "uptimeYear": "84.58%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "84.67%",
+    "uptimeYear": "84.67%",
     "time": 1251,
-    "timeDay": 1250,
+    "timeDay": 1251,
     "timeWeek": 1258,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-18": 769,
+      "2022-06-18": 780,
       "2022-06-17": 1046,
-      "2022-06-16": 727
+      "2022-06-16": 703
     }
   },
   {
@@ -99,20 +99,20 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.58%",
+    "uptime": "84.67%",
     "uptimeDay": "35.80%",
-    "uptimeWeek": "74.74%",
-    "uptimeMonth": "84.58%",
-    "uptimeYear": "84.58%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "84.67%",
+    "uptimeYear": "84.67%",
     "time": 1251,
-    "timeDay": 1250,
+    "timeDay": 1251,
     "timeWeek": 1258,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-18": 769,
+      "2022-06-18": 780,
       "2022-06-17": 1046,
-      "2022-06-16": 727
+      "2022-06-16": 703
     }
   },
   {
@@ -121,20 +121,20 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.58%",
+    "uptime": "84.67%",
     "uptimeDay": "35.80%",
-    "uptimeWeek": "74.74%",
-    "uptimeMonth": "84.58%",
-    "uptimeYear": "84.58%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "84.67%",
+    "uptimeYear": "84.67%",
     "time": 1251,
-    "timeDay": 1250,
+    "timeDay": 1251,
     "timeWeek": 1258,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-18": 769,
+      "2022-06-18": 780,
       "2022-06-17": 1046,
-      "2022-06-16": 727
+      "2022-06-16": 703
     }
   }
 ]
