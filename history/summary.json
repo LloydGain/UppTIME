@@ -59,20 +59,20 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "85.18%",
-    "uptimeDay": "35.84%",
-    "uptimeWeek": "73.72%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "85.18%",
+    "uptime": "85.83%",
+    "uptimeDay": "35.04%",
+    "uptimeWeek": "74.85%",
+    "uptimeMonth": "85.83%",
+    "uptimeYear": "85.83%",
     "time": 1253,
     "timeDay": 1283,
     "timeWeek": 1268,
     "timeMonth": 1253,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-06-19": 752,
+      "2022-06-19": 764,
       "2022-06-18": 897,
-      "2022-06-17": 998
+      "2022-06-17": 873
     }
   },
   {
@@ -99,20 +99,20 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "85.18%",
-    "uptimeDay": "35.82%",
-    "uptimeWeek": "73.72%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "85.18%",
+    "uptime": "85.83%",
+    "uptimeDay": "35.04%",
+    "uptimeWeek": "74.85%",
+    "uptimeMonth": "85.83%",
+    "uptimeYear": "85.83%",
     "time": 1253,
     "timeDay": 1283,
     "timeWeek": 1268,
     "timeMonth": 1253,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-06-19": 752,
+      "2022-06-19": 764,
       "2022-06-18": 897,
-      "2022-06-17": 998
+      "2022-06-17": 873
     }
   },
   {
@@ -121,20 +121,20 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "85.18%",
-    "uptimeDay": "35.81%",
-    "uptimeWeek": "73.71%",
-    "uptimeMonth": "85.18%",
-    "uptimeYear": "85.18%",
+    "uptime": "85.83%",
+    "uptimeDay": "35.03%",
+    "uptimeWeek": "74.84%",
+    "uptimeMonth": "85.83%",
+    "uptimeYear": "85.83%",
     "time": 1253,
     "timeDay": 1283,
     "timeWeek": 1268,
     "timeMonth": 1253,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2022-06-19": 753,
+      "2022-06-19": 764,
       "2022-06-18": 897,
-      "2022-06-17": 998
+      "2022-06-17": 873
     }
   }
 ]
