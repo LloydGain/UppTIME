@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.08%",
     "uptimeDay": "37.60%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "84.12%",
-    "uptimeYear": "84.12%",
+    "uptimeWeek": "72.96%",
+    "uptimeMonth": "84.08%",
+    "uptimeYear": "84.08%",
     "time": 1251,
     "timeDay": 1255,
     "timeWeek": 1255,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-19": 256,
+      "2022-06-19": 289,
       "2022-06-18": 897,
       "2022-06-17": 1046,
-      "2022-06-16": 508
+      "2022-06-16": 488
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.08%",
     "uptimeDay": "37.60%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "84.12%",
-    "uptimeYear": "84.12%",
+    "uptimeWeek": "72.96%",
+    "uptimeMonth": "84.08%",
+    "uptimeYear": "84.08%",
     "time": 1251,
     "timeDay": 1255,
     "timeWeek": 1255,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-19": 256,
+      "2022-06-19": 289,
       "2022-06-18": 897,
       "2022-06-17": 1046,
-      "2022-06-16": 508
+      "2022-06-16": 488
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "84.12%",
+    "uptime": "84.08%",
     "uptimeDay": "37.60%",
-    "uptimeWeek": "73.08%",
-    "uptimeMonth": "84.12%",
-    "uptimeYear": "84.12%",
+    "uptimeWeek": "72.96%",
+    "uptimeMonth": "84.08%",
+    "uptimeYear": "84.08%",
     "time": 1251,
     "timeDay": 1255,
     "timeWeek": 1255,
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-06-19": 256,
+      "2022-06-19": 289,
       "2022-06-18": 897,
       "2022-06-17": 1046,
-      "2022-06-16": 508
+      "2022-06-16": 488
     }
   }
 ]
