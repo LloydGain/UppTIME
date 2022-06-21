@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.02%",
-    "uptimeDay": "30.22%",
-    "uptimeWeek": "71.81%",
-    "uptimeMonth": "86.02%",
-    "uptimeYear": "86.02%",
+    "uptime": "86.13%",
+    "uptimeDay": "30.16%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "86.13%",
+    "uptimeYear": "86.13%",
     "time": 1248,
     "timeDay": 1209,
     "timeWeek": 1267,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-21": 520,
+      "2022-06-21": 538,
       "2022-06-20": 1022,
       "2022-06-19": 910,
-      "2022-06-18": 390
+      "2022-06-18": 353
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.02%",
-    "uptimeDay": "30.22%",
-    "uptimeWeek": "71.81%",
-    "uptimeMonth": "86.02%",
-    "uptimeYear": "86.02%",
+    "uptime": "86.13%",
+    "uptimeDay": "30.14%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "86.13%",
+    "uptimeYear": "86.13%",
     "time": 1248,
     "timeDay": 1209,
     "timeWeek": 1267,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-21": 520,
+      "2022-06-21": 538,
       "2022-06-20": 1022,
       "2022-06-19": 910,
-      "2022-06-18": 390
+      "2022-06-18": 353
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.02%",
-    "uptimeDay": "30.22%",
-    "uptimeWeek": "71.81%",
-    "uptimeMonth": "86.02%",
-    "uptimeYear": "86.02%",
+    "uptime": "86.13%",
+    "uptimeDay": "30.13%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "86.13%",
+    "uptimeYear": "86.13%",
     "time": 1248,
     "timeDay": 1209,
-    "timeWeek": 1267,
+    "timeWeek": 1268,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-21": 520,
+      "2022-06-21": 539,
       "2022-06-20": 1022,
       "2022-06-19": 910,
-      "2022-06-18": 390
+      "2022-06-18": 353
     }
   }
 ]
