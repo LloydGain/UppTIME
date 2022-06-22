@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.43%",
+    "uptime": "86.49%",
     "uptimeDay": "29.11%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "86.43%",
-    "time": 1249,
-    "timeDay": 1258,
-    "timeWeek": 1270,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "86.49%",
+    "time": 1250,
+    "timeDay": 1260,
+    "timeWeek": 1271,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-22": 383,
+      "2022-06-22": 396,
       "2022-06-21": 1019,
       "2022-06-20": 1022,
-      "2022-06-19": 502
+      "2022-06-19": 477
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.43%",
+    "uptime": "86.49%",
     "uptimeDay": "29.11%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "86.43%",
-    "time": 1249,
-    "timeDay": 1258,
-    "timeWeek": 1270,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "86.49%",
+    "time": 1250,
+    "timeDay": 1260,
+    "timeWeek": 1271,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-22": 383,
+      "2022-06-22": 396,
       "2022-06-21": 1019,
       "2022-06-20": 1022,
-      "2022-06-19": 502
+      "2022-06-19": 477
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "86.43%",
+    "uptime": "86.49%",
     "uptimeDay": "29.11%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "86.43%",
-    "uptimeYear": "86.43%",
-    "time": 1249,
-    "timeDay": 1258,
-    "timeWeek": 1270,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "86.49%",
+    "time": 1250,
+    "timeDay": 1260,
+    "timeWeek": 1271,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-22": 383,
+      "2022-06-22": 396,
       "2022-06-21": 1019,
       "2022-06-20": 1022,
-      "2022-06-19": 502
+      "2022-06-19": 477
     }
   }
 ]
