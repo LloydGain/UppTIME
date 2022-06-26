@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "89.80%",
-    "uptimeDay": "35.04%",
+    "uptime": "89.81%",
+    "uptimeDay": "34.73%",
     "uptimeWeek": "72.46%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "89.80%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 1248,
-    "timeDay": 1246,
+    "timeDay": 1247,
     "timeWeek": 1244,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-26": 304,
+      "2022-06-26": 324,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 496
+      "2022-06-23": 476
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "89.80%",
-    "uptimeDay": "35.04%",
+    "uptime": "89.81%",
+    "uptimeDay": "34.72%",
     "uptimeWeek": "72.46%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "89.80%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 1248,
-    "timeDay": 1246,
+    "timeDay": 1247,
     "timeWeek": 1244,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-26": 304,
+      "2022-06-26": 324,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 496
+      "2022-06-23": 476
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "89.80%",
-    "uptimeDay": "35.04%",
+    "uptime": "89.81%",
+    "uptimeDay": "34.71%",
     "uptimeWeek": "72.46%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "89.80%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 1248,
-    "timeDay": 1246,
+    "timeDay": 1247,
     "timeWeek": 1244,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-06-26": 304,
+      "2022-06-26": 324,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 496
+      "2022-06-23": 476
     }
   }
 ]
