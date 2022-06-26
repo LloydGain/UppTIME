@@ -60,20 +60,20 @@
     "slug": "invest",
     "status": "down",
     "uptime": "90.20%",
-    "uptimeDay": "36.82%",
-    "uptimeWeek": "72.83%",
+    "uptimeDay": "36.37%",
+    "uptimeWeek": "72.81%",
     "uptimeMonth": "90.20%",
     "uptimeYear": "90.20%",
     "time": 1249,
-    "timeDay": 1276,
-    "timeWeek": 1242,
+    "timeDay": 1284,
+    "timeWeek": 1241,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-06-26": 725,
+      "2022-06-26": 743,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 40
+      "2022-06-23": 24
     }
   },
   {
@@ -101,20 +101,20 @@
     "slug": "invest",
     "status": "down",
     "uptime": "90.20%",
-    "uptimeDay": "36.82%",
-    "uptimeWeek": "72.82%",
+    "uptimeDay": "36.34%",
+    "uptimeWeek": "72.80%",
     "uptimeMonth": "90.20%",
     "uptimeYear": "90.20%",
     "time": 1249,
-    "timeDay": 1276,
-    "timeWeek": 1242,
+    "timeDay": 1284,
+    "timeWeek": 1241,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-06-26": 725,
+      "2022-06-26": 743,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 40
+      "2022-06-23": 24
     }
   },
   {
@@ -123,21 +123,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.20%",
-    "uptimeDay": "36.82%",
-    "uptimeWeek": "72.82%",
-    "uptimeMonth": "90.20%",
-    "uptimeYear": "90.20%",
+    "uptime": "90.19%",
+    "uptimeDay": "36.33%",
+    "uptimeWeek": "72.80%",
+    "uptimeMonth": "90.19%",
+    "uptimeYear": "90.19%",
     "time": 1249,
-    "timeDay": 1276,
-    "timeWeek": 1242,
+    "timeDay": 1284,
+    "timeWeek": 1241,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-06-26": 725,
+      "2022-06-26": 744,
       "2022-06-25": 924,
       "2022-06-24": 1055,
-      "2022-06-23": 40
+      "2022-06-23": 24
     }
   }
 ]
