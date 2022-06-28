@@ -59,21 +59,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.55%",
+    "uptime": "90.56%",
     "uptimeDay": "26.26%",
     "uptimeWeek": "71.71%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "90.55%",
-    "time": 1249,
-    "timeDay": 1235,
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "90.56%",
+    "time": 1250,
+    "timeDay": 1237,
     "timeWeek": 1251,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-28": 363,
+      "2022-06-28": 385,
       "2022-06-27": 1065,
       "2022-06-26": 871,
-      "2022-06-25": 559
+      "2022-06-25": 537
     }
   },
   {
@@ -100,21 +100,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.55%",
+    "uptime": "90.56%",
     "uptimeDay": "26.26%",
     "uptimeWeek": "71.70%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "90.55%",
-    "time": 1249,
-    "timeDay": 1235,
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "90.56%",
+    "time": 1250,
+    "timeDay": 1237,
     "timeWeek": 1251,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-28": 363,
+      "2022-06-28": 385,
       "2022-06-27": 1065,
       "2022-06-26": 871,
-      "2022-06-25": 559
+      "2022-06-25": 537
     }
   },
   {
@@ -128,16 +128,16 @@
     "uptimeWeek": "71.70%",
     "uptimeMonth": "90.55%",
     "uptimeYear": "90.55%",
-    "time": 1249,
-    "timeDay": 1235,
+    "time": 1250,
+    "timeDay": 1237,
     "timeWeek": 1251,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-06-28": 363,
+      "2022-06-28": 385,
       "2022-06-27": 1065,
       "2022-06-26": 871,
-      "2022-06-25": 559
+      "2022-06-25": 537
     }
   }
 ]
