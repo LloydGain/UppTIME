@@ -61,21 +61,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.28%",
-    "uptimeDay": "26.31%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "90.28%",
+    "uptime": "90.25%",
+    "uptimeDay": "24.75%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "90.25%",
+    "uptimeYear": "90.25%",
     "time": 1247,
-    "timeDay": 1195,
-    "timeWeek": 1250,
+    "timeDay": 1193,
+    "timeWeek": 1249,
     "timeMonth": 1247,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2022-06-29": 881,
+      "2022-06-29": 923,
       "2022-06-28": 1002,
       "2022-06-27": 1065,
-      "2022-06-26": 188
+      "2022-06-26": 162
     }
   },
   {
@@ -102,21 +102,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.28%",
-    "uptimeDay": "26.31%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "90.28%",
+    "uptime": "90.25%",
+    "uptimeDay": "24.73%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "90.25%",
+    "uptimeYear": "90.25%",
     "time": 1247,
-    "timeDay": 1195,
-    "timeWeek": 1250,
+    "timeDay": 1193,
+    "timeWeek": 1249,
     "timeMonth": 1247,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2022-06-29": 881,
+      "2022-06-29": 923,
       "2022-06-28": 1002,
       "2022-06-27": 1065,
-      "2022-06-26": 188
+      "2022-06-26": 162
     }
   },
   {
@@ -125,21 +125,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "90.28%",
-    "uptimeDay": "26.31%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "90.28%",
-    "uptimeYear": "90.28%",
+    "uptime": "90.24%",
+    "uptimeDay": "24.72%",
+    "uptimeWeek": "68.73%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "90.24%",
     "time": 1247,
-    "timeDay": 1195,
-    "timeWeek": 1250,
+    "timeDay": 1193,
+    "timeWeek": 1249,
     "timeMonth": 1247,
     "timeYear": 1247,
     "dailyMinutesDown": {
-      "2022-06-29": 882,
+      "2022-06-29": 923,
       "2022-06-28": 1002,
       "2022-06-27": 1065,
-      "2022-06-26": 188
+      "2022-06-26": 162
     }
   }
 ]
