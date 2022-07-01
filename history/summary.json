@@ -62,17 +62,17 @@
     "slug": "invest",
     "status": "down",
     "uptime": "91.64%",
-    "uptimeDay": "23.59%",
-    "uptimeWeek": "70.74%",
+    "uptimeDay": "23.44%",
+    "uptimeWeek": "70.71%",
     "uptimeMonth": "91.64%",
     "uptimeYear": "91.64%",
     "time": 1248,
     "timeDay": 1240,
-    "timeWeek": 1246,
+    "timeWeek": 1247,
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-07-01": 948,
+      "2022-07-01": 950,
       "2022-06-30": 1148,
       "2022-06-29": 851
     }
@@ -102,8 +102,8 @@
     "slug": "invest",
     "status": "down",
     "uptime": "91.64%",
-    "uptimeDay": "23.57%",
-    "uptimeWeek": "70.73%",
+    "uptimeDay": "23.42%",
+    "uptimeWeek": "70.71%",
     "uptimeMonth": "91.64%",
     "uptimeYear": "91.64%",
     "time": 1248,
@@ -112,7 +112,7 @@
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-07-01": 948,
+      "2022-07-01": 950,
       "2022-06-30": 1148,
       "2022-06-29": 851
     }
@@ -124,8 +124,8 @@
     "slug": "invest",
     "status": "down",
     "uptime": "91.64%",
-    "uptimeDay": "23.56%",
-    "uptimeWeek": "70.73%",
+    "uptimeDay": "23.41%",
+    "uptimeWeek": "70.71%",
     "uptimeMonth": "91.64%",
     "uptimeYear": "91.64%",
     "time": 1248,
@@ -134,7 +134,7 @@
     "timeMonth": 1248,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-07-01": 949,
+      "2022-07-01": 950,
       "2022-06-30": 1148,
       "2022-06-29": 851
     }
