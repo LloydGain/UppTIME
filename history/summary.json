@@ -72,7 +72,7 @@
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-07-03": 316,
+      "2022-07-03": 317,
       "2022-07-02": 940,
       "2022-07-01": 1041,
       "2022-06-30": 559
@@ -103,8 +103,8 @@
     "slug": "invest",
     "status": "down",
     "uptime": "92.36%",
-    "uptimeDay": "35.76%",
-    "uptimeWeek": "71.70%",
+    "uptimeDay": "35.77%",
+    "uptimeWeek": "71.69%",
     "uptimeMonth": "92.36%",
     "uptimeYear": "92.36%",
     "time": 1251,
@@ -113,7 +113,7 @@
     "timeMonth": 1251,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2022-07-03": 316,
+      "2022-07-03": 317,
       "2022-07-02": 940,
       "2022-07-01": 1041,
       "2022-06-30": 559
@@ -126,7 +126,7 @@
     "slug": "invest",
     "status": "down",
     "uptime": "92.36%",
-    "uptimeDay": "35.74%",
+    "uptimeDay": "35.77%",
     "uptimeWeek": "71.69%",
     "uptimeMonth": "92.36%",
     "uptimeYear": "92.36%",
