@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2156,
-    "timeDay": 2024,
-    "timeWeek": 2194,
-    "timeMonth": 2156,
-    "timeYear": 2156,
+    "time": 2150,
+    "timeDay": 1941,
+    "timeWeek": 2158,
+    "timeMonth": 2150,
+    "timeYear": 2150,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2539,
-    "timeDay": 2792,
-    "timeWeek": 2773,
-    "timeMonth": 2539,
-    "timeYear": 2539,
+    "time": 2543,
+    "timeDay": 2667,
+    "timeWeek": 2833,
+    "timeMonth": 2543,
+    "timeYear": 2543,
     "dailyMinutesDown": {
       "2022-06-29": 16
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
+    "time": 300,
     "timeDay": 413,
-    "timeWeek": 272,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "timeWeek": 286,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -61,20 +61,20 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.57%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "73.68%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "uptime": "93.63%",
+    "uptimeDay": "26.24%",
+    "uptimeWeek": "73.90%",
+    "uptimeMonth": "93.63%",
+    "uptimeYear": "93.63%",
     "time": 1249,
     "timeDay": 1238,
     "timeWeek": 1251,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-07-05": 1033,
+      "2022-07-05": 1038,
       "2022-07-04": 1087,
-      "2022-07-03": 534
+      "2022-07-03": 507
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1566,
-    "timeWeek": 1646,
-    "timeMonth": 1661,
-    "timeYear": 1661,
+    "time": 1657,
+    "timeDay": 1540,
+    "timeWeek": 1615,
+    "timeMonth": 1657,
+    "timeYear": 1657,
     "dailyMinutesDown": {}
   },
   {
@@ -101,20 +101,20 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.57%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "73.68%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "uptime": "93.62%",
+    "uptimeDay": "26.24%",
+    "uptimeWeek": "73.90%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "93.62%",
     "time": 1249,
     "timeDay": 1238,
     "timeWeek": 1251,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-07-05": 1033,
+      "2022-07-05": 1038,
       "2022-07-04": 1087,
-      "2022-07-03": 534
+      "2022-07-03": 507
     }
   },
   {
@@ -123,20 +123,20 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.57%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "73.68%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "93.57%",
+    "uptime": "93.62%",
+    "uptimeDay": "26.24%",
+    "uptimeWeek": "73.90%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "93.62%",
     "time": 1249,
     "timeDay": 1238,
     "timeWeek": 1251,
     "timeMonth": 1249,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2022-07-05": 1033,
+      "2022-07-05": 1039,
       "2022-07-04": 1087,
-      "2022-07-03": 534
+      "2022-07-03": 507
     }
   }
 ]
