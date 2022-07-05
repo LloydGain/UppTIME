@@ -61,21 +61,21 @@
     "icon": "https://favicons.githubusercontent.com/rich01.com",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.49%",
+    "uptime": "93.21%",
     "uptimeDay": "24.47%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "93.49%",
+    "uptimeWeek": "73.02%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.21%",
     "time": 1250,
-    "timeDay": 1217,
+    "timeDay": 1216,
     "timeWeek": 1252,
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-07-05": 40,
+      "2022-07-05": 181,
       "2022-07-04": 1087,
       "2022-07-03": 909,
-      "2022-07-02": 565
+      "2022-07-02": 546
     }
   },
   {
@@ -102,21 +102,21 @@
     "icon": "https://favicons.githubusercontent.com/blog-pos-17",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.49%",
+    "uptime": "93.21%",
     "uptimeDay": "24.47%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "93.49%",
+    "uptimeWeek": "73.02%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.21%",
     "time": 1250,
-    "timeDay": 1217,
+    "timeDay": 1216,
     "timeWeek": 1252,
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-07-05": 41,
+      "2022-07-05": 181,
       "2022-07-04": 1087,
       "2022-07-03": 909,
-      "2022-07-02": 565
+      "2022-07-02": 546
     }
   },
   {
@@ -125,21 +125,21 @@
     "icon": "https://favicons.githubusercontent.com/howtobullsh",
     "slug": "invest",
     "status": "down",
-    "uptime": "93.49%",
+    "uptime": "93.21%",
     "uptimeDay": "24.47%",
-    "uptimeWeek": "74.23%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "93.49%",
+    "uptimeWeek": "73.01%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "93.21%",
     "time": 1250,
-    "timeDay": 1217,
+    "timeDay": 1216,
     "timeWeek": 1252,
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2022-07-05": 41,
+      "2022-07-05": 182,
       "2022-07-04": 1087,
       "2022-07-03": 909,
-      "2022-07-02": 565
+      "2022-07-02": 546
     }
   }
 ]
