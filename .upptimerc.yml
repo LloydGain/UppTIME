@@ -9,8 +9,6 @@ sites:
     url: https://brpt.bookroll.org.tw/login/index.php
   - name: geeks for geeks
     url: https://www.geeksforgeeks.org/
-  - name: invest
-    url: https://rich01.com/blog-pos-17/
   - name: toby
     url: https://www.hellotoby.com/zh-tw?isMobile=true/
 
