@@ -64,18 +64,20 @@
     "url": "https://www.geeksforgeeks.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.geeksforgeeks.org.ico",
     "slug": "geeks-for-geeks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 189,
-    "timeWeek": 237,
-    "timeMonth": 267,
-    "timeYear": 305,
-    "dailyMinutesDown": {}
+    "time": 365,
+    "timeDay": 7063,
+    "timeWeek": 1949,
+    "timeMonth": 695,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2023-02-27": 0
+    }
   },
   {
     "name": "toby",
