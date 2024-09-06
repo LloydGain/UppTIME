@@ -77,19 +77,19 @@
     "url": "https://www.hellotoby.com/zh-tw?isMobile=true/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hellotoby.com.ico",
     "slug": "toby",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1874,
-    "timeDay": 1603,
-    "timeWeek": 1796,
-    "timeMonth": 1874,
+    "timeDay": 1729,
+    "timeWeek": 1817,
+    "timeMonth": 1877,
     "timeYear": 1882,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 18
     }
   }
 ]
