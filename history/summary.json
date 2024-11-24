@@ -35,19 +35,19 @@
     "url": "https://brpt.bookroll.org.tw/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/brpt.bookroll.org.tw.ico",
     "slug": "bookroll",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1695,
-    "timeDay": 1747,
-    "timeWeek": 1658,
-    "timeMonth": 1649,
-    "timeYear": 1696,
+    "time": 1694,
+    "timeDay": 1552,
+    "timeWeek": 1620,
+    "timeMonth": 1640,
+    "timeYear": 1695,
     "dailyMinutesDown": {
-      "2024-11-24": 0
+      "2024-11-24": 9
     }
   },
   {
