@@ -35,9 +35,9 @@
     "url": "https://brpt.bookroll.org.tw/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/brpt.bookroll.org.tw.ico",
     "slug": "bookroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,7 +46,9 @@
     "timeWeek": 1658,
     "timeMonth": 1649,
     "timeYear": 1696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   },
   {
     "name": "geeks for geeks",
