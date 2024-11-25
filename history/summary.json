@@ -37,8 +37,8 @@
     "slug": "bookroll",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1695,
@@ -47,7 +47,7 @@
     "timeMonth": 1650,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2024-11-25": 0
+      "2024-11-25": 1
     }
   },
   {
