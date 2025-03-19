@@ -9,8 +9,7 @@ sites:
     url: https://brpt.bookroll.org.tw/login/index.php
   - name: geeks for geeks
     url: https://www.geeksforgeeks.org/
-  - name: toby
-    url: https://www.hellotoby.com/zh-tw?isMobile=true/
+
 
 
 status-website:
