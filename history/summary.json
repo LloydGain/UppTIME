@@ -50,18 +50,19 @@
     "url": "https://www.geeksforgeeks.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.geeksforgeeks.org.ico",
     "slug": "geeks-for-geeks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 351,
-    "timeWeek": 888,
-    "timeMonth": 367,
+    "timeDay": 226,
+    "timeWeek": 790,
+    "timeMonth": 359,
     "timeYear": 277,
     "dailyMinutesDown": {
+      "2026-02-10": 0,
       "2025-11-06": 30
     }
   }
