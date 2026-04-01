@@ -9,7 +9,8 @@ sites:
     url: https://brpt.bookroll.org.tw/login/index.php
   - name: geeks for geeks
     url: https://www.geeksforgeeks.org/
-
+  - name: Lloyd github page
+    url: https://lloydgain.github.io/
 
 
 status-website:
