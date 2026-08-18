@@ -25,9 +25,9 @@
     "url": "https://brpt.bookroll.org.tw/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/brpt.bookroll.org.tw.ico",
     "slug": "bookroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -39,7 +39,8 @@
     "dailyMinutesDown": {
       "2025-09-19": 24,
       "2025-09-22": 44,
-      "2026-06-04": 285
+      "2026-06-04": 285,
+      "2026-08-18": 0
     }
   },
   {
