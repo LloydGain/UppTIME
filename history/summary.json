@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1553,
-    "timeDay": 936,
-    "timeWeek": 902,
-    "timeMonth": 973,
-    "timeYear": 1369,
+    "time": 1551,
+    "timeDay": 1006,
+    "timeWeek": 950,
+    "timeMonth": 971,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2025-11-25": 47,
       "2026-02-24": 43,
@@ -26,21 +26,22 @@
     "url": "https://brpt.bookroll.org.tw/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/brpt.bookroll.org.tw.ico",
     "slug": "bookroll",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1603,
-    "timeDay": 1283,
-    "timeWeek": 1467,
-    "timeMonth": 1555,
+    "time": 1602,
+    "timeDay": 0,
+    "timeWeek": 1443,
+    "timeMonth": 1550,
     "timeYear": 1585,
     "dailyMinutesDown": {
       "2026-06-04": 285,
       "2026-08-18": 36,
-      "2026-08-29": 231
+      "2026-08-29": 231,
+      "2026-11-12": 0
     }
   },
   {
@@ -54,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 235,
-    "timeDay": 100,
-    "timeWeek": 173,
-    "timeMonth": 166,
-    "timeYear": 224,
+    "time": 234,
+    "timeDay": 60,
+    "timeWeek": 129,
+    "timeMonth": 163,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2026-02-10": 49
     }
@@ -75,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 393,
-    "timeWeek": 329,
-    "timeMonth": 312,
+    "timeDay": 353,
+    "timeWeek": 346,
+    "timeMonth": 317,
     "timeYear": 250,
     "dailyMinutesDown": {}
   }
