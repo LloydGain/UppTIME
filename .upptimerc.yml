@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: DQ
     url: https://dq.yam.com/
-  - name: bookroll
-    url: https://brpt.bookroll.org.tw/login/index.php
   - name: geeks for geeks
     url: https://www.geeksforgeeks.org/
   - name: Lloyd github page
     url: https://lloydgain.github.io/
+  - name: a guide website
+    url: https://register-exam.tad.gov.tw/tourism/
 
 
 status-website:
